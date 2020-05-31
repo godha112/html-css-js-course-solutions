@@ -30,6 +30,10 @@ h1{
 	overflow: auto;
 }
 
+#section1{
+	padding-bottom: 0;
+}
+
 
 #subhead1{ 
 	text-transform: capitalize;
